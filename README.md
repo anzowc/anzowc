@@ -10,7 +10,7 @@
 <img src="https://count.getloli.com/get/@anzowc?theme=gelbooru" alt="Visitor Count" />
 
 # ✦ JUNN (NGUYEN ANH QUAN) ✦
-### 🧭 Bien Hoa, Vietnam :: GMT+7
+### 🧭 Website Skidder  :: GMT+7
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=✦+Full-time+Lazy+Developer;✦+HTML++CSS++C%2B%2B++Python;✦+Aesthetic+%26+Clean+Workspace" alt="Typing SVG" />
@@ -30,10 +30,9 @@
 
 ### 🪙 STATUS PROFILE
 
-* **`Identity`** `::` Nguyễn Anh Quân (Junn)
-* **`Location`** `::` Biên Hòa, Việt Nam 🇻🇳
-* **`Habit`** `::` Chúa tể trì hoãn, siêu lười biếng nhưng đụng vào code là phải gọn và đẹp.
-* **`Vibe`** `::` Thích giao diện bo góc mềm mại, hiệu ứng mờ ảo và tone màu dịu mắt.
+* **`Identity`** `::` Nguyen Anh Quan (junn-owc-ngaq)
+* **`Location`** `::` Viet Nam / Bien Hoa City 
+* **`Habit`** `::` useless / poor / but have dead brain
 
 ---
 
@@ -67,7 +66,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5ZnM5b3VpczRwY29hcGhzMTVpdzBtMGt2ZDF3NThhNzh0d25wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lo43D8Y2hI_yWbNstW/giphy.gif" width="100px" alt="Footer GIF"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms5ZnM5b3VpczRwY29hcGhzMTVpdzBtMGt2ZDF3NThhNzh0d25wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lo43D8Y2hI_yWbNstW/giphy.webp" width="100px" alt="Footer GIF" style="border-radius: 8px;"/>
   <br/>
   <span><i>"Nằm im tình yêu sẽ đến, bớt code lại cho đời thanh thản..."</i></span>
 </div>
