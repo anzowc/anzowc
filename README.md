@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner GIF Cyberpunk / Chill Minimalist -->
-<img src="https://share.creavite.co/6a4bd1ebb361db4134ddc573.gif/>
+<img src="https://share.creavite.co/6a4bd1ebb361db4134ddc573.gif"/>
 
 <br/>
 <br/>
