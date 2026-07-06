@@ -9,7 +9,7 @@
 <!-- CountLoli - Visitor Counter -->
 <img src="https://count.getloli.com/get/@anzowc?theme=gelbooru" alt="Visitor Count" />
 
-# ✦ JUNN (NGUYEN ANH QUAN) ✦
+# ✦                                                  ✦
 ### 🧭 Website Skidder  :: GMT+7
 
 <!-- Typing SVG -->
