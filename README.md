@@ -28,14 +28,11 @@
 
 ### ✦ GITHUB ANALYSIS
 
-<!-- Đã đẩy cụm Stats, Streak và Profile Card lên vị trí này -->
+<!-- Đã xếp card Profile và Streak nằm ngang hàng nhau, xóa bỏ card cũ theo ảnh Untitled.png -->
 <p align="center">
   <a href="https://github.com/anzowc">
-    <img src="https://gh-readme-profile.vercel.app/api?username=anzowc&theme=dark" alt="GitHub Readme Profile" height="180px" style="border-radius: 8px; margin-bottom: 10px;" />
+    <img src="https://gh-readme-profile.vercel.app/api?username=anzowc&theme=dark" alt="GitHub Readme Profile" height="180px" style="border-radius: 8px; margin-right: 5px;" />
   </a>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=anzowc&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="180px"/>
 </p>
 
@@ -67,7 +64,7 @@
   <br/>
   <br/>
   
-  <!-- CountLoli - Đã chuyển xuống dưới cùng footer như ảnh image_ec825f.png -->
+  <!-- CountLoli - Visitor Counter -->
   <img src="https://count.getloli.com/get/@anzowc?theme=gelbooru" alt="Visitor Count" />
   
   <br/>
