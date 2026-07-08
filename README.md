@@ -32,8 +32,7 @@
 <p align="center">
   <a href="https://github.com/ngaqz">
     <img src="https://gh-readme-profile.vercel.app/api?username=ngaqz&theme=dark" alt="GitHub Readme Profile" height="180px" style="border-radius: 8px; margin-right: 5px;" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=ngaqz&theme=tokyonight&border_radius=8" alt="GitHub Streak" height="180px"/>
+
 </p>
 
 ---
